@@ -30,6 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 Describe any challenges encountered while building the app.
+Actually understanding the concept the api and orientation portion of the project.
 
 ### Open-source libraries used
 
